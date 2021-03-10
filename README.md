@@ -16,4 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+```text
+Go                33 hrs 14 mins  █████████████████████▓░░░   86.92 % 
+Protocol Buffer   1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Java              1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Markdown          38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+GraphQL           34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+```
 <!--END_SECTION:waka-->
