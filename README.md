@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **juliovcruz/juliovcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 💻 Last 7 days coding
 
 <!--START_SECTION:waka-->
 ```text
