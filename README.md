@@ -10,34 +10,34 @@
 ### Back and Front
 
 <p>
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36" height="36" alt="Golang"/></a>
-<a href="https://kotlinlang.org/docs/home.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="36" height="36" alt="Kotlin"/></a>
-<a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="Typescript"/></a>
-<a href="https://graphql.org/learn/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" height="36" alt="GraphQL"/></a>
-<a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java"/></a>
-<a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="36" height="36" alt="Docker"/></a>
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="26" height="26" alt="Golang"/></a>
+<a href="https://kotlinlang.org/docs/home.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="26" height="26" alt="Kotlin"/></a>
+<a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="26" height="26" alt="Typescript"/></a>
+<a href="https://graphql.org/learn/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="26" height="26" alt="GraphQL"/></a>
+<a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="26" height="26" alt="Java"/></a>
+<a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="26" height="26" alt="Docker"/></a>
 </p>
 <p>
-<a href="https://reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React"/></a>
-<a href="https://mui.com/material-ui/getting-started/installation/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="36" height="36" alt="MaterialUI"/></a>
+<a href="https://reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26" height="26" alt="React"/></a>
+<a href="https://mui.com/material-ui/getting-started/installation/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="26" height="26" alt="MaterialUI"/></a>
 </p>
 
 ### Others
 <p>
-<a href="https://www.postgresql.org/docs/current/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL"/></a> 
-<a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL"/></a>                
-<a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB"/></a>          
-<a href="https://redis.io/docs/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36" alt="Redis"/></a>                
+<a href="https://www.postgresql.org/docs/current/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="26" height="26" alt="PostgreSQL"/></a> 
+<a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="26" height="26" alt="MySQL"/></a>                
+<a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="26" height="26" alt="MongoDB"/></a>          
+<a href="https://redis.io/docs/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="26" height="26" alt="Redis"/></a>                
 </p>
 
 <p>
-<a href="https://grafana.com/docs/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="36" height="36" alt="Grafana"/></a>
-<a href="hhttps://docs.datadoghq.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="36" height="36" alt="Datadog"/></a>
-<a href="https://docs.newrelic.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg" width="36" height="36" alt="New Relic"/></a>
+<a href="https://grafana.com/docs/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="26" height="26" alt="Grafana"/></a>
+<a href="hhttps://docs.datadoghq.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="26" height="26" alt="Datadog"/></a>
+<a href="https://docs.newrelic.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg" width="26" height="26" alt="New Relic"/></a>
 </p>
 
 <p>
-<a href="https://www.rabbitmq.com/documentation.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="36" height="36" alt="RabbitMQ"/></a>
+<a href="https://www.rabbitmq.com/documentation.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="26" height="26" alt="RabbitMQ"/></a>
 </p>
 
 ### 💻 Last 7 days coding
@@ -56,7 +56,7 @@ TypeScript                 19 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/juliovcruz/count.svg" />
+  <img src="https://profile-counter.glitch.me/_/count.svg" />
 </p>
 
 <p>
