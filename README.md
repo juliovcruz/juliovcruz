@@ -10,34 +10,34 @@
 ### Back and Front
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36" height="36" alt="Golang"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="36" height="36" alt="Kotlin"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="Typescript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" height="36" alt="GraphQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="36" height="36" alt="Docker"/>
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36" height="36" alt="Golang"/></a>
+<a href="https://kotlinlang.org/docs/home.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="36" height="36" alt="Kotlin"/></a>
+<a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="Typescript"/></a>
+<a href="https://graphql.org/learn/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" height="36" alt="GraphQL"/></a>
+<a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java"/></a>
+<a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="36" height="36" alt="Docker"/></a>
 </p>
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="36" height="36" alt="MaterialUI"/>
+<a href="https://reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React"/></a>
+<a href="https://mui.com/material-ui/getting-started/installation/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="36" height="36" alt="MaterialUI"/></a>
 </p>
 
 ### Others
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36" alt="Redis"/>
+<a href="https://www.postgresql.org/docs/current/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL"/></a> 
+<a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL"/></a>                
+<a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB"/></a>          
+<a href="https://redis.io/docs/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36" alt="Redis"/></a>                
 </p>
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="36" height="36" alt="Grafana"/>
-<img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="36" height="36" alt="Datadog"/>
-<img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg" width="36" height="36" alt="New Relic"/>
+<a href="https://grafana.com/docs/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="36" height="36" alt="Grafana"/></a>
+<a href="hhttps://docs.datadoghq.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="36" height="36" alt="Datadog"/></a>
+<a href="https://docs.newrelic.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg" width="36" height="36" alt="New Relic"/></a>
 </p>
 
 <p>
-<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="36" height="36" alt="RabbitMQ"/>
+<a href="https://www.rabbitmq.com/documentation.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="36" height="36" alt="RabbitMQ"/></a>
 </p>
 
 ### 💻 Last 7 days coding
@@ -60,7 +60,7 @@ TypeScript                 19 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" alt="PopOS"/>
-<img src="https://img.shields.io/badge/JETBRAINS IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="PopOS"/>
-<img src="https://img.shields.io/badge/VS CODE-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS CODE"/>
+<a href="https://pop.system76.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" alt="PopOS"/></a>
+<a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JETBRAINS IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="JetBrains"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VS CODE-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS CODE"/></a>
 </p>
