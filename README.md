@@ -5,8 +5,6 @@
 <h2> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  My name is Julio Cruz <img src="https://c.tenor.com/Dp8txgNJQuYAAAAC/elmo-elmo-fire.gif" width="28" height="28"/></h2>
 <h3> I'm Software Developer </h3>
 
-===========================
-
 ## Skills
 
 ### Back and Front
@@ -19,8 +17,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="36" height="36" alt="Docker"/>
 </p>
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="36" height="36" alt="MaterialUI"/>
+</p>
 
 ### Others
 <p>
@@ -59,6 +59,8 @@ TypeScript                 19 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <img src="https://profile-counter.glitch.me/juliovcruz/count.svg" />
 </p>
 
+<p>
 <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" alt="PopOS"/>
 <img src="https://img.shields.io/badge/JETBRAINS IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="PopOS"/>
 <img src="https://img.shields.io/badge/VS CODE-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS CODE"/>
+</p>
