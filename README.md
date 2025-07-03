@@ -45,8 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go    0 secs          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀   85.64 %
-SQL   0 secs          ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
